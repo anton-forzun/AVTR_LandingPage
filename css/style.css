@@ -92,7 +92,7 @@ ul{
 }
 
 .header__content {
-  background-image: url(/images/header-bj2.svg);
+  background-image: url(/images/header-bj3.png);
   min-height: calc(100vh - 100px);
   background-repeat: no-repeat;
   background-position: center;
@@ -412,9 +412,6 @@ footer {
 
 @media(max-width:520px) {
 
-  .header__content {
-    background-position-x: -936px;
-  }
   .header__top {
     flex-wrap: wrap;
     padding-top: 10px;
